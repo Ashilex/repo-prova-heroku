@@ -20,7 +20,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ab2745-73ac-479b-af79-5b4952db6df7" name="Default Changelist" comment="" />
+    <list default="true" id="00ab2745-73ac-479b-af79-5b4952db6df7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600885079280</updated>
-      <workItem from="1600885081008" duration="2789000" />
+      <workItem from="1600885081008" duration="2966000" />
+      <workItem from="1600979304721" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="Commit dopo il push con quello che proviene dalla repo del ragazzo di youtube">
       <created>1600885756973</created>
@@ -72,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600888306558</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Altro commit di prova">
+      <created>1600888671103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600888671103</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +117,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit dopo il push con quello che proviene dalla repo del ragazzo di youtube" />
@@ -114,26 +125,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="Altro commit di prova" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1600885105157">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1600888763384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/9.-1080.1920.1040@0.0.1366.728" timestamp="1600885105157" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1600885105157">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/9.-1080.1920.1040@0.0.1366.728" timestamp="1600888763384" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1600888763383">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/9.-1080.1920.1040@0.0.1366.728" timestamp="1600885105157" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1600885105157">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/9.-1080.1920.1040@0.0.1366.728" timestamp="1600888763383" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1600888763383">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/9.-1080.1920.1040@0.0.1366.728" timestamp="1600885105157" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1600885105157">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/9.-1080.1920.1040@0.0.1366.728" timestamp="1600888763383" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1600888763383">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/9.-1080.1920.1040@0.0.1366.728" timestamp="1600885105157" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600888382459">
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/9.-1080.1920.1040@0.0.1366.728" timestamp="1600888763383" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600888674981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/9.-1080.1920.1040@0.0.1366.728" timestamp="1600888382459" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/9.-1080.1920.1040@0.0.1366.728" timestamp="1600888674981" />
     <state x="483" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600885676641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
